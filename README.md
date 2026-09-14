@@ -186,6 +186,10 @@ You decide what AI agents can do with each connected account:
 
 - **Secure requests** - HTTPS support
 
+## Pricing
+
+The Web Crawler MCP server is included in every InsightfulPipe plan, together with all other MCP servers and the CLI. Plans start at $29.99/month with a 7-day free trial. See [insightfulpipe.com/pricing](https://insightfulpipe.com/pricing) for current plans.
+
 ## Ready-Made Skills and Prompts
 
 - [Claude skills for SEO and marketing](https://insightfulpipe.com/marketing-claude-skills/marketing) — ready-made skills that run on your connected data
